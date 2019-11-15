@@ -6,6 +6,7 @@ public class Main {
 		
 		Car[] cars = {new Volvo(), new Ford(), new BMW(), new Porsche() };
 		for(Car function : cars) {
+			System.out.println(function.name);
 			function.crash();
 			function.fuel();
 			function.run();

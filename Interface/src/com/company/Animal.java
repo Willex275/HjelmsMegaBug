@@ -1,6 +1,4 @@
-package Interface_JAVAFX;
-
-import java.sql.SQLOutput;
+package com.company;
 
 public interface Animal {
 

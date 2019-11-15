@@ -1,9 +1,6 @@
-package Interface_JAVAFX;
+package com.company;
 
 public class Bird implements Animal {
-
-
-
 
     @Override
     public void sound() {
