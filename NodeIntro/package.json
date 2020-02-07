@@ -4,12 +4,13 @@
   "description": "",
   "main": "NodeIntro.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
     "nodemon": "^2.0.2"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon StartNode.js"
   },
   "keywords": [],
   "author": "",

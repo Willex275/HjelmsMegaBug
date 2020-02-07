@@ -1,11 +1,10 @@
-package ProLabb;
 
-public class LiskousLabb {
-	
+public class LiskovsLabb {
+
 	public static void main(String[] args) {
 		
 		
 		
 	}
-
+	
 }
